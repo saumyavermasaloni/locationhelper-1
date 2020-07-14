@@ -1,0 +1,3 @@
+rootProject.name='LocationHelper'
+include ':app'
+include ':location_help'
